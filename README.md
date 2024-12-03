@@ -1,5 +1,5 @@
 # Forest-Cover-Loss-Analysis
-orest cover loss analysis involves studying the reduction in the area of forests over time due to natural or human-induced factors. This analysis is crucial for understanding environmental impacts, biodiversity loss, and climate change. Key steps in forest cover loss analysis typically include: 
+forest cover loss analysis involves studying the reduction in the area of forests over time due to natural or human-induced factors. This analysis is crucial for understanding environmental impacts, biodiversity loss, and climate change. Key steps in forest cover loss analysis typically include: 
 
 
 Team member 
@@ -18,11 +18,11 @@ Team member
        Forest cover loss Analysis 
 
 ## Contributors
-1. Kshitij Gujar(KU2407U323)
-2. Diya chauhan(KU2407U278)
-3. Shrey patel(KU2407U377)
-4. Dev vyas(KU2407U271)
-5. charmi Gondaliya(KU2407U268)
+1. Kshitij Gujar(KU2407U323)_ Python coding 
+2. Diya chauhan(KU2407U278)_ Manage all the files 
+3. Shrey patel(KU2407U377)_ manage all the dataset 
+4. Dev vyas(KU2407U271)_ code exection and code screenshot 
+5. charmi Gondaliya(KU2407U268)_ Support in all the department 
 
   
 
